@@ -5,4 +5,5 @@ def using_concat(first, second)
     first.push(second[i])
     i += 1
   end
+  first
 end
